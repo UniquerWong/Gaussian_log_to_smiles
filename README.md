@@ -1,5 +1,3 @@
----
-
 # Gaussian\_log\_to\_smiles
 
 A lightweight Python script to extract molecular structures from Gaussian log files and convert them to canonical SMILES.
@@ -40,7 +38,3 @@ A lightweight Python script to extract molecular structures from Gaussian log fi
 * RDKit
 * OpenBabel / Pybel
 * Pandas
-
----
-
-要不要我在这个 README 里加一个 **Example input / output**（示例输入输出）的小节，让别人一眼看懂？
